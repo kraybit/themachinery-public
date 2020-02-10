@@ -1,2 +1,2 @@
 # themachinery-public
-Public repository for The Machinery, used for issue tracking of the alpha release
+Public repository for [The Machinery](https://www.ourmachinery.com/), used for issue tracking of the alpha release
